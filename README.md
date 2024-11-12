@@ -28,6 +28,18 @@ Presented trends for EBITDA, Cash Flow from Operations (CFO), and Free Cash Flow
 ### 9. Ratio Analysis
 Key metrics like ROE%, ROCE%, GP%, EBITDA%, and PAT% over the years.
 Calculated EPS, BVPS, Financial Leverage, and Asset Turnover.
+## Data Preparation & Transformation
+Imported financial statement data into Power BI, ensuring data quality and consistency.
+Performed data cleansing and transformation using Power Query for a smooth analytical workflow.
+## Utilized DAX functions to create calculated measures and columns, making complex financial metrics easy to interpret.
+### Visualizations & Dashboards
+Interactive Dashboards: Designed engaging and interactive visuals, making it effortless for stakeholders to explore sales growth, profitability, and performance trends.
+## Customized Tooltips: Added tooltips to provide additional insights on key financial metrics, ensuring that detailed data is accessible on hover.
+## Decomposition Charts: Utilized these to break down financial contributions by segment and geography.
+### Key Highlights
+### Comparative Analysis: Visualized year-over-year changes in revenue and profitability metrics, facilitating strategic financial comparisons.
+### Asset Distribution: Mapped out the asset distribution and turnover ratios to understand capital efficiency.
+## Profitability Flow: Illustrated the flow from Gross Profit to Net Profit, highlighting areas of financial impact.
 💡 This project provides a holistic view of financial health and performance, helping stakeholders make data-driven decisions. All analysis was carried out under the guidance of Mr. Kasfur Dhuniyan.
 
 For more technical details and the Power BI dashboard walkthrough, check out the GitHub repository where I’ve shared documentation and visual insights.
